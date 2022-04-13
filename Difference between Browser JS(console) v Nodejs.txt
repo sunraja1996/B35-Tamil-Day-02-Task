@@ -1,0 +1,16 @@
+Difference between Browser JS(console) v Nodejs
+
+Java script
+It is used for Front End Development
+It can only run-on Website
+It is capable to add HTML file
+It is the upgraded version of ECMA Script that uses Chrome’s V8 engine writer in C++
+It is high level programming language
+
+
+Node.js
+It is used for Back End Development
+JS can run outside of browser using NodeJS
+It is not capable to add HTML file
+It is writer in C, C++ & JavaScript
+It uses the JavaScript to develop server-side application

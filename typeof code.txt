@@ -1,0 +1,9 @@
+a.typeof(1)               number
+b.typeof(1.1)             number
+c.typeof('1.1')           string
+d.typeof(true)            boolean
+e.typeof(null)            object
+f.typeof(undefined)       undefined
+g.typeof([])              object
+h.typeof({})              object
+i.typeof(NaN)             number
